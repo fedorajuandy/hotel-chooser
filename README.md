@@ -5,7 +5,7 @@ Simple application to choose a hotel preferences and the price summary based on 
 '![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1B6AC6)
 '![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
 
-# Installation
+# How to Use
 - Extract the archieve to a chosen folder and open it in NetBeans (or another IDE of your choice), open the project folder, and click run.
 - Extract the dist folder, double click (or execute using command line) the .jar file.
 
